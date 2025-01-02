@@ -94,5 +94,5 @@ class Circle extends Shape {
     Rectangle rectangle = new Rectangle(2,6);
     System.out.println("Rectangle:");
     rectangle.displayArea();
-   }
+}
 }
