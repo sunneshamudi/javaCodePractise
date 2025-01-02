@@ -1,6 +1,4 @@
 //Sum of array elements
-//democomment1
-
 /**
  * ArraySum
  */
