@@ -1,9 +1,5 @@
-/**
- * Array
- Print array in reverse order
-Copy array in reverse order ie arri[]= 2,4,6,8,10 arr2 should have 10,8,6,4,2
-Store Sunnesha in array.
- */
+// Array Print array in reverse order Copy array in reverse order ie arri[]= 2,4,6,8,10 arr2 should have 10,8,6,4,2 Store Sunnesha in array.
+
 import java.util.Scanner;
 public class Array {
 
